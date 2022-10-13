@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: serverIdleTimeoutTest
+netty:
+  default:
+    allocator:
+      max-order: 3
